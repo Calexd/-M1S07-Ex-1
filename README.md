@@ -1,3 +1,5 @@
+[M1S07] Ex 1 - Construir um layout com sidebar / header / content utilizando flexbox:
+
 “Desenvolva uma arquitetura de layout que seja dividida em 3 grandes áreas.
 
 Sidebar - como um menu lateral;
